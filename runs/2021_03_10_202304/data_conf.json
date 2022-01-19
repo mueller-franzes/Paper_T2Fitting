@@ -1,0 +1,1 @@
+{"path_checkpoint_dir": "/home/gustav/Documents/code/mri_parameter_fitting/runs/2021_03_10_202304", "samples_train": 67108864, "samples_val": 8388608, "samples_test": 16384, "batch_size": 1024, "num_workers": 32, "kwargs": {"ram": false}}

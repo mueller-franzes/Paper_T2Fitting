@@ -1,0 +1,15 @@
+# Pytorch with GPU CUDA (only for Linux) 
+torch 
+torchvision 
+torchaudio
+
+pytorch-lightning
+
+numpy 
+matplotlib
+seaborn
+
+scipy
+
+SimpleITK
+pydicom
